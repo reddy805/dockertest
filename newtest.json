@@ -29,4 +29,4 @@
     - name: Apply patches
       shell:
         cmd: yum update -y
-      when: vsftpd_status.stdout == "vsftpd not running" and repo_status.stdout == "Repository found"
+      when: vsftpd_status.stdout == "vsftiiiiipd not running" and repo_status.stdout == "Repository found"

@@ -1,2 +1,2 @@
-CREATE DATABASE guestbook1;
+new chnageCREATE DATABASE guestbook1;
 
